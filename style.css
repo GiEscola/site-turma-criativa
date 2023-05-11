@@ -1,9 +1,40 @@
+{margin:0;
+padding:0;
+}
+
 .cabeçalho{
     background-color: #992B2B;
     color: yellow;
     display:flex;
     justify-content: space-around;
+    align-items:center
+    padding: 24px;
 }
 .cabeçalho-imagem{
 width: 20%;
 }
+.cabeçalho-lista-item{
+    display: inline-block
+    margin: 016px;
+    font-size: 24px;
+}
+.Desenho-imagem {
+     width: 25%
+}
+.Desenho{
+    background-image: linear-gradient(#992B2B );
+    color: yellow
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    padding: 24px;
+}
+.Desenho-div-conteudo{
+    width: 35%;
+
+}
+.Desenho-titulo{
+    padding: 24 px 0;
+}
+
+
