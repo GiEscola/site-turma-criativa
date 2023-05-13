@@ -7,27 +7,34 @@ padding:0;
     color: yellow;
     display:flex;
     justify-content: space-around;
-    align-items:center
-    padding: 24px;
+    align-items:center;
+    padding: 5px;
 }
 .cabeçalho-imagem{
-width: 20%;
+width: 30rem;
+}
+.coelho-imagem{
+width: 10rem;
+display: flex;
+align:center;
 }
 .cabeçalho-lista-item{
-    display: inline-block
+    display: inline-block;
     margin: 016px;
     font-size: 24px;
 }
 .Desenho-imagem {
-     width: 25%
+     width: 25%;
+}
+.texto-amarelo {
+color: yellow;
+
 }
 .Desenho{
     background-image: linear-gradient(#992B2B );
-    color: yellow
     display: flex;
-    justify-content:space-around;
-    align-items: center;
     padding: 24px;
+    font-size: 30px;
 }
 .Desenho-div-conteudo{
     width: 35%;
